@@ -26,51 +26,28 @@ My personal motivation is that I'm also a theacher and its very challenging to t
 
 ## How is it used?
 
-The techer and students will make their accounts (student and techer account). The techer will then add her students inside the group and select date and time of the test, field that will be tested (for example - Physics -> Dynamics -> Work, energy and power -> choose students or group -> generate random tests), difficulty and time. This software would be great for online classes but also for the use inside a class.
+The teacher and students will make their accounts (student and techer account). The techer will then add her students inside the group and select date and time of the test, field that will be tested (for example - Physics -> Dynamics -> Work, energy and power -> choose students or group -> generate random tests), difficulty and time. This software would be great for online classes but also for the use inside a class.
 
 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Cat](https://specials-images.forbesimg.com/imageserve/846719540/960x0.jpg?cropX1=0&cropX2=5453&cropY1=529&cropY2=3085)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
 Data is coming from the database for the assigments, and later the data will be collected upon completed tests and generate statistics about particular problems that students solve well, or not well. From this information teacher can modify their lessons and focus on things that are students strugling with.
 
-## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Next step would be that students upload their written solutions to the software (currently there would be multiple choice answers), and using NLP AI grades their solutions like a techer 
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+  <br>For example: [Image taken from Forbes] / [CC BY 2.0](https://www.forbes.com/sites/drdonlincoln/2019/11/23/has-a-new-discovery-broken-known-physics/?sh=73d9dc7465be)
