@@ -30,12 +30,11 @@ The teacher and students will make their accounts (student and techer account). 
 
 
 
-Images will make your README look nice!
+
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://specials-images.forbesimg.com/imageserve/846719540/960x0.jpg?cropX1=0&cropX2=5453&cropY1=529&cropY2=3085)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+
 
 
 ## Data sources and AI methods
@@ -50,4 +49,4 @@ Next step would be that students upload their written solutions to the software 
 
 ## Acknowledgments
 
-  <br>For example: [Image taken from Forbes] / [CC BY 2.0](https://www.forbes.com/sites/drdonlincoln/2019/11/23/has-a-new-discovery-broken-known-physics/?sh=73d9dc7465be)
+[Image taken from Forbes] / [CC BY 2.0](https://www.forbes.com/sites/drdonlincoln/2019/11/23/has-a-new-discovery-broken-known-physics/?sh=73d9dc7465be)
