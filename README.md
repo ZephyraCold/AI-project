@@ -31,7 +31,7 @@ The teacher and students will make their accounts (student and techer account). 
 
 
 
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 ![Cat](https://specials-images.forbesimg.com/imageserve/846719540/960x0.jpg?cropX1=0&cropX2=5453&cropY1=529&cropY2=3085)
 
 
